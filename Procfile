@@ -1,1 +1,1 @@
-web: gunicorn DRF.wsgi --log-file -
+web: gunicorn xmeme.wsgi
