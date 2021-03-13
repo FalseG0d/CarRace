@@ -1,1 +1,1 @@
-web: gunicorn XmemeBackend.wsgi
+web: gunicorn Eshop.wsgi --log-file -
