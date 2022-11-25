@@ -6,13 +6,13 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-# Complete Java
+# GitHub Colors
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="http://apoorvgarg.herokuapp.com/">
-    <img src="https://github.com/FalseG0d/GitHubColors/raw/main/images/Logo.png" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/43299477?v=4" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Made By <a href="https://github.com/FalseG0d">FalseG0d</a></h3>
