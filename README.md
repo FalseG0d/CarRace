@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="http://apoorvgarg.herokuapp.com/">
-    <img src="https://avatars.githubusercontent.com/u/43299477?v=4" alt="Logo" width="80" height="80">
+    <img src="https://github.com/FalseG0d/AdvancedDjango/raw/main/images/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Made By <a href="https://github.com/FalseG0d">FalseG0d</a></h3>
@@ -95,4 +95,4 @@ All these programs are made by me without any monetary support nor have I reciev
 [license-url]: https://github.com/FalseG0d/GitHubColors/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/apoorv-garg-137137171/
-[product-screenshot]: images/pexels.jpg
+[product-screenshot]: https://raw.githubusercontent.com/FalseG0d/GitHubColors/master/pexels.jpg
